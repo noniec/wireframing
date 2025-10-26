@@ -102,3 +102,30 @@ Wireframes serve as a blueprint for UI design and development. They help develop
 **Example:** Developers can use the wireframe to plan database structures for user bookings or to implement consistent navigation patterns.
 
 In summary, wireframing helps teams plan, communicate, and build better software by providing clarity from the very beginning of the development cycle.
+
+## Wireframing in Practice
+
+Wireframing is not just a planning step, it’s a practical tool that helps detect usability issues before coding begins, saving time and improving user experience.
+
+### Real-World Scenario: Hotel Booking Application
+During the design of a hotel booking web app, the design team created wireframes to visualize the user journey, from searching for hotels to completing a booking.
+
+#### Identified Usability Issues
+While testing the wireframe with users and stakeholders, the team noticed two main problems:
+1. Confusing Navigation: Users found it difficult to locate the “My Bookings” page because the link was hidden under the profile menu.  
+2. Overcrowded Search Results Page: The listing page displayed too much information at once, making it hard to scan and compare hotels quickly.
+
+#### How the Issues Were Resolved
+- The navigation bar was redesigned to include a clear “My Bookings” tab visible on all screens.  
+- The search results layout was simplified, only essential details like hotel name, rating, and price were shown initially, with a “View Details” button for more info.  
+
+After these improvements, users found the interface much easier to use, and feedback during testing confirmed smoother navigation and faster decision-making.
+
+### Impact on the Final Product
+By identifying these issues early:
+- The design became more intuitive and aligned with user expectations.  
+- Developers had a clearer blueprint, reducing revisions during coding.  
+- The final product offered a cleaner, faster, and more user-friendly experience.
+
+### Conclusion
+This example shows that wireframing helps uncover usability issues early, preventing costly redesigns and ensuring a smooth user journey.bIn software development, wireframes act as a communication bridge between ideas and execution, helping teams deliver products that are both functional and user-centered.
