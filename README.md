@@ -49,9 +49,31 @@ High-fidelity (hi-fi) wireframes are much closer to the final design in terms of
 ## Example: Which type of wireframe is this?  
 Link to the file: [Project Link in Figma](https://www.figma.com/design/E2BRqdPcKkrnX6hLGPto8Z/Project-Airbnb?node-id=1-2&p=f&t=YWLcisb8SiGfVtcW-0)  
 
-Based on the look and level of detail of the design in the provided Figma project, the wireframe appears to be high-fidelity.  
-**Why:**  
+Based on the look and level of detail of the design in the provided Figma project, the wireframe appears to be high-fidelity. Reasons include:
 - It uses more complete layout details rather than rough sketches.  
 - It includes UI elements that resemble the final product.  
 - Using Figma suggests digital fidelity and refinement beyond simple hand-sketches.  
 
+## Wireframing Tools
+There are several tools available to help designers create wireframes efficiently. Each tool offers different features depending on needs, from simple sketching to interactive prototypes.
+
+### Popular Wireframing Tools
+1. Figma: A cloud-based design tool for creating wireframes, prototypes, and UI designs.  
+2. Adobe XD: Ideal for wireframing and prototyping with vector-based design features.  
+3. Sketch: A macOS-based tool widely used for creating high-fidelity wireframes and interfaces.  
+4. Balsamiq: Focused on low-fidelity wireframes, great for quick sketches and brainstorming. 
+5. Miro: A collaborative whiteboard tool suitable for brainstorming and simple wireframes.
+
+
+### Recommended Tool: Figma
+Figma is one of the most popular tools for wireframing and UI design because it’s easy to use, web-based, and supports real-time collaboration. Figma makes wireframing faster, more collaborative, and more effective, making it an essential tool in modern design workflows.
+
+#### Key Features
+- Real-time Collaboration: Multiple users can work on the same design at once.  
+- Cross-Platform Access: Works on any browser — no installation needed.  
+- Components & Templates: Reuse design elements to maintain consistency.  
+- Prototyping: Create clickable prototypes to test user flows.  
+- Version Control: Keeps track of changes and design history automatically.
+
+#### Usefullness of Figma for Wireframing
+Figma allows designers to start with low-fidelity wireframes and gradually build up to high-fidelity prototypes without switching tools. It also helps teams visualize ideas quickly, gather feedback, and ensure alignment between designers, developers, and stakeholders.
