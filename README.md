@@ -22,3 +22,36 @@ Wireframes are made up of several important elements that define how a product�
 3. Content Placement: This defines where information and visuals will appear on the screen, such as text blocks, buttons, or images. Example: In a booking system, hotel images might be placed at the top, followed by descriptions, prices, and a “Book Now” button.
 
 4. Functionality: Functionality represents interactive elements that users can engage with, such as forms, buttons, or dropdowns. Example: A search bar where users can enter destination names or a date picker for selecting check-in and check-out dates.
+
+
+## Types of Wireframes
+
+### Low-Fidelity Wireframes  
+Low-fidelity (lo-fi) wireframes are very basic sketches or digital outlines. They focus on structure and layout rather than design details like colour, typography or imagery.
+**When to use:**
+- Early in the design process, when you want to explore ideas fast.  
+- When you want to get stakeholder feedback quickly with minimal effort.  
+**What they look like:**  
+- Simple boxes and shapes representing content areas.  
+- Grey-scale or black-white only.  
+- No detailed styling or final UI elements.
+
+### High-Fidelity Wireframes  
+High-fidelity (hi-fi) wireframes are much closer to the final design in terms of layout, spacing, and often include UI elements, real text, and interactions. They help visualize how the product will look and behave.  
+**When to use:**  
+- After the structure is agreed and you want to test user flows and experience.  
+- Before moving into full visual design and prototyping.  
+**What they look like:**  
+- Detailed UI elements (buttons, icons, often real text).  
+- More accurate spacing, layout, and sometimes colours and images (though still not the final design).  
+- They can be used for usability testing before full design implementation.
+
+## Example: Which type of wireframe is this?  
+Link to the file: [Project Link in Figma](https://www.figma.com/design/E2BRqdPcKkrnX6hLGPto8Z/Project-Airbnb?node-id=1-2&p=f&t=YWLcisb8SiGfVtcW-0)  
+
+Based on the look and level of detail of the design in the provided Figma project, the wireframe appears to be high-fidelity.  
+**Why:**  
+- It uses more complete layout details rather than rough sketches.  
+- It includes UI elements that resemble the final product.  
+- Using Figma suggests digital fidelity and refinement beyond simple hand-sketches.  
+
